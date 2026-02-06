@@ -37,3 +37,8 @@ Convertix is designed to simplify the conversion of Microsoft Word documents to 
 
 ```bash
 pip install docx2pdf pdf2docx
+
+---
+
+## To Download EXE
+https://drive.google.com/file/d/18Sy4YIgyh8Etspg2K1-G0GB7TMNVg2fJ
